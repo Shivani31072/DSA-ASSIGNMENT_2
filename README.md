@@ -1,5 +1,6 @@
 # DSA-ASSIGNMENT_2
 SCHOLAR ID-2012101
+
 Since ancient times, the ability to represent numbers and perform arithmetic operations on numbers
 played an important role. Hence, it is interesting to study how different representation formats
 impact the number representation and operations. In this experiment, we study the efficacy of
